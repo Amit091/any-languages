@@ -1,6 +1,8 @@
-| language   | command          | playground                                                           |
-| ---------- | ---------------- | -------------------------------------------------------------------- |
-| bash       | bash hello.bash  | https://www.onlinegdb.com/online_bash_shell                          |
-| javascript | node hello.js    | https://playcode.io/empty_javascript                                 |
-| typescript | ts-node hello.ts | https://playcode.io/empty_typescript                                 |
-| python     | py hello.py      | https://www.w3schools.com/python/trypython.asp?filename=demo_default |
+| language   | command                           |
+| ---------- | --------------------------------- |
+| bash       | bash hello.bash                   |
+| javascript | node hello.js                     |
+| typescript | ts-node hello.ts                  |
+| python     | py hello.py                       |
+| c          | gcc hello.c && ./a.out            |
+| c++        | gcc hello.cpp -lstdc++ && ./a.out |
